@@ -18,9 +18,7 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
+  
 <div> 
   <a href="https://instagram.com/__marcusvinicius__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marquito-123@hotmail.com"><img src="https://img.shields.io/badge/hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
